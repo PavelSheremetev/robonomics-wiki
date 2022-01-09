@@ -9,29 +9,29 @@
   },
   "dependencies": {
     "@gridsome/plugin-sitemap": "^0.4.0",
-    "@gridsome/remark-prismjs": "^0.2.0",
+    "@gridsome/remark-prismjs": "^0.5.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
     "@gridsome/vue-remark": "^0.2.6",
     "@noxify/gridsome-plugin-remark-embed": "^1.3.1",
-    "@octokit/rest": "^18.2.1",
-    "axios": "^0.21.1",
+    "@octokit/rest": "^18.12.0",
+    "axios": "^0.24.0",
     "gridsome": "^0.7.23",
-    "gridsome-plugin-flexsearch": "^0.1.20",
+    "gridsome-plugin-flexsearch": "^2.0.2",
     "gridsome-plugin-gtm": "^0.1.1",
     "gridsome-plugin-remark-asciinema": "0.0.2",
     "gridsome-plugin-yandex-metrika": "^0.1.2",
-    "http-server": "^0.12.3",
+    "http-server": "^14.0.9",
     "lodash": "^4.17.21",
-    "node-sass": "^6.0.1",
-    "prismjs": "^1.24.0",
-    "remark-autolink-headings": "^5.2.2",
-    "remark-highlight.js": "^5.2.0",
-    "sass-loader": "^10.1.1",
+    "node-sass": "^7.0.1",
+    "prismjs": "^1.26.0",
+    "remark-autolink-headings": "^7.0.1",
+    "remark-highlight.js": "^7.0.1",
+    "sass-loader": "^12.4.0",
     "vue-cookies": "^1.7.4",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
-    "vue-svg-loader": "^0.15.0"
+    "vue-svg-loader": "^0.16.0"
   }
 }
